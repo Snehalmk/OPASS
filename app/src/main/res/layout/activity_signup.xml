@@ -85,5 +85,14 @@
         android:layout_below="@+id/PassC"
         android:layout_centerHorizontal="true" />
 
+    <Button
+        android:text="Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Finish"
+        android:layout_alignRight="@+id/Finish"
+        android:layout_alignEnd="@+id/Finish"
+        android:id="@+id/button2" />
+
 </RelativeLayout>
 </ScrollView>
